@@ -1,0 +1,32 @@
+Firefox--testaddNewContact--Failed--Unable to locate element: /html/body/div/div[3]/ul/li[3]/a/self::A
+Chrome--testaddNewContact--Failed--Unable to locate element: /html/body/div/div[3]/ul/li[3]/a/self::A
+Firefox--testAddNewGroup--Failed--Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/div[3]/ul/li[3]/a/self::A (tried for 10 second(s) with 500 milliseconds interval)
+Chrome--testAddNewGroup--Failed--Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/div[3]/ul/li[3]/a/self::A (tried for 10 second(s) with 500 milliseconds interval)
+Firefox--testGroups--Failed--Unable to locate element: /html/body/div/div[3]/ul/li[3]/a/self::A
+Chrome--testGroups--Failed--Unable to locate element: /html/body/div/div[3]/ul/li[3]/a/self::A
+Firefox--testAssignGroup--Failed--Unable to locate element: //*[@id="nav"]/ul/li[1]/a
+Chrome--testAssignGroup--Failed--Unable to locate element: //*[@id="nav"]/ul/li[1]/a
+Firefox--testeditGroup--Failed--Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/div[3]/ul/li[3]/a/self::A (tried for 10 second(s) with 500 milliseconds interval)
+Chrome--testeditGroup--Failed--Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/div[3]/ul/li[3]/a/self::A (tried for 10 second(s) with 500 milliseconds interval)
+Firefox--testaddNewPage--Failed--Unable to locate element: /html/body/div/div[3]/ul/li[2]/a
+Chrome--testaddNewPage--Failed--Unable to locate element: /html/body/div/div[3]/ul/li[2]/a
+Firefox--testdeleteItem--Passed---
+Chrome--testdeleteItem--Passed---
+Firefox--testprintAll--Failed--Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/div[3]/ul/li[3]/a/self::A (tried for 10 second(s) with 500 milliseconds interval)
+Chrome--testprintAll--Failed--Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/div[3]/ul/li[3]/a/self::A (tried for 10 second(s) with 500 milliseconds interval)
+Firefox--testprintPhones--Failed--Unable to locate element: //A[@href='view.php?all&print&phones'][text()='print phones']/self::A
+Chrome--testprintPhones--Failed--Unable to locate element: //A[@href='view.php?all&print&phones'][text()='print phones']/self::A
+Firefox--testExportAllRecordCSVFile--Failed--Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/div[3]/ul/li[3]/a/self::A (tried for 10 second(s) with 500 milliseconds interval)
+Chrome--testExportAllRecordCSVFile--Failed--Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/div[3]/ul/li[3]/a/self::A (tried for 10 second(s) with 500 milliseconds interval)
+Firefox--testnextBirthdays--Failed--Unable to locate element: //*[@id="nav"]/ul/li[1]/a
+Chrome--testnextBirthdays--Failed--Unable to locate element: //*[@id="nav"]/ul/li[1]/a
+Firefox--CheckPhonesTest--Failed--Unable to locate element: //*[@id="nav"]/ul/li[6]/a
+Chrome--CheckPhonesTest--Failed--Unable to locate element: //*[@id="nav"]/ul/li[6]/a
+Firefox--SearchEntryTest--Failed--Unable to locate element: //*[@id="nav"]/ul/li[1]/a
+Firefox--testAddMultipleContactEnteries--Passed---
+Firefox--testAddMultipleMultipleGroups--Passed---
+Chrome--SearchEntryTest--Failed--Unable to locate element: //*[@id="nav"]/ul/li[1]/a
+Chrome--testAddMultipleContactEnteries--Passed---
+Chrome--testAddMultipleMultipleGroups--Passed---
+Firefox--testVerifyWrongEntry--Failed--Unable to locate element: //*[@id="search-az"]/form/input
+Chrome--testVerifyWrongEntry--Failed--Unable to locate element: //*[@id="search-az"]/form/input

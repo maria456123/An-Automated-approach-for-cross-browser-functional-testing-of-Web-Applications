@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TailoredSuiteFirefox]">
+  <test thread-count="5" name="FirefoxTest(failed)">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="TailoredSuiteFirefox.ClarolineTestScripts">
+        <methods>
+          <include name="testAddSameUserTwice"/>
+          <include name="testCourseDescA7"/>
+          <include name="testCourseDesc"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- TailoredSuiteFirefox.ClarolineTestScripts -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [TailoredSuiteFirefox] -->

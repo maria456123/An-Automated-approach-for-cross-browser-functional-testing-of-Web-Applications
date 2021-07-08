@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ItermediateTest Suite]">
+  <test thread-count="5" name="Command line test 17bacb84-e577-40b6-bfff-2941b00ad42d(failed)">
+    <parameter name="browser" value="Edge"/>
+    <classes>
+      <class name="IntermediateSuite.AB_suit">
+        <methods>
+          <include name="testhomeSearch"/>
+          <include name="Setup"/>
+          <include name="testAddNewGroup"/>
+          <include name="testnextBirthdayModify"/>
+          <include name="testdeleteGroup"/>
+          <include name="testExportAllRecordCSVFile"/>
+          <include name="testhomeAddToSpecific"/>
+          <include name="CheckPhonesTest"/>
+          <include name="testeditGroup"/>
+          <include name="testhomesendMailToSpecific"/>
+        </methods>
+      </class> <!-- IntermediateSuite.AB_suit -->
+    </classes>
+  </test> <!-- Command line test 17bacb84-e577-40b6-bfff-2941b00ad42d(failed) -->
+</suite> <!-- Failed suite [ItermediateTest Suite] -->

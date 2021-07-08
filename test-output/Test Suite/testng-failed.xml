@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]">
+  <test thread-count="5" name="Command line test 2df28086-94f3-4768-8f4a-f0326e814ab9(failed)">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="InputSuite.MantisBTSuite">
+        <methods>
+          <include name="ViewIssueTest"/>
+          <include name="deleteProjectTest"/>
+          <include name="SummaryTest"/>
+          <include name="deleteUserTest"/>
+          <include name="updateProjectStatusTest"/>
+          <include name="ReportTest"/>
+          <include name="logoutTest"/>
+          <include name="addUserEmptyTest"/>
+          <include name="updateCategoryTest"/>
+          <include name="updateUserEmptyTest"/>
+          <include name="Setup"/>
+          <include name="resetUserPreferencesTest"/>
+          <include name="roadMapTest"/>
+          <include name="addProfileTest"/>
+          <include name="addProjectTest"/>
+          <include name="addSubProjectTest"/>
+          <include name="deleteMultipleUserTest"/>
+          <include name="addCategoryTest"/>
+          <include name="addProjectTest001"/>
+          <include name="addCategoryWrongTest"/>
+          <include name="addNewsTest"/>
+          <include name="linkMulitpleSubProjectTest"/>
+          <include name="addNegativeNEwsTest"/>
+          <include name="deleteProfileTest"/>
+          <include name="unlinkMultipleSubProjectTest"/>
+          <include name="linkSubProjectTest"/>
+          <include name="nagativeLoginTest"/>
+          <include name="deletCategoryTest"/>
+          <include name="addNewsTestMultiple"/>
+          <include name="DeleteNews"/>
+          <include name="addProjectWrongTest"/>
+          <include name="updateProjectViewStatusTest"/>
+          <include name="updateProjectTest"/>
+          <include name="addUserTest"/>
+          <include name="addMultipleUsersTest"/>
+          <include name="editNegativeNewsTest"/>
+          <include name="updateProjectDescriptionTest"/>
+          <include name="ChangeLogTest"/>
+          <include name="editNewsTest"/>
+          <include name="editNegativeProfileTest"/>
+          <include name="unlinkSubProjectTest"/>
+          <include name="deleteSubProjectTest"/>
+          <include name="addNegativeProfileTest"/>
+          <include name="deleteMultipleSubProjectTest"/>
+          <include name="updateUserTest"/>
+          <include name="addProjectEmptyTest"/>
+          <include name="addCategoryEmptyTest"/>
+          <include name="editProfileTest"/>
+          <include name="DeleteNewsMultipletest"/>
+          <include name="addUserWrongTest"/>
+          <include name="assignCategoryToUser"/>
+        </methods>
+      </class> <!-- InputSuite.MantisBTSuite -->
+    </classes>
+  </test> <!-- Command line test 2df28086-94f3-4768-8f4a-f0326e814ab9(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

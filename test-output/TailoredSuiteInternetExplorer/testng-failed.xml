@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TailoredSuiteInternetExplorer]">
+  <test thread-count="5" name="InternetExplorerTest(failed)">
+    <parameter name="browser" value="InternetExplorer"/>
+    <classes>
+      <class name="TailoredSuiteInternetExplorer.AB_suit">
+        <methods>
+          <include name="testnextBirthdays"/>
+          <include name="testnextBirthdayModify"/>
+          <include name="CheckPhonesTest"/>
+          <include name="testExportAllRecordCSVFile"/>
+          <include name="Setup"/>
+          <include name="testaddNewContact"/>
+        </methods>
+      </class> <!-- TailoredSuiteInternetExplorer.AB_suit -->
+    </classes>
+  </test> <!-- InternetExplorerTest(failed) -->
+</suite> <!-- Failed suite [TailoredSuiteInternetExplorer] -->

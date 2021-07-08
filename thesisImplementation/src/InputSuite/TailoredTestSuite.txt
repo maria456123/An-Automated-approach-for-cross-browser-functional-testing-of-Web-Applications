@@ -1,0 +1,42 @@
+Chrome--testaddNewContact--Failed--no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/ul/li[3]/a/self::A"}
+  (Session info: MicrosoftEdge=87.0.664.52)
+Chrome--testAddNewGroup--Failed--Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div/div[3]/ul/li[3]/a/self::A (tried for 10 second(s) with 500 milliseconds interval)
+Chrome--testGroups--Failed--no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/ul/li[3]/a/self::A"}
+  (Session info: MicrosoftEdge=87.0.664.52)
+Chrome--testAssignGroup--Failed--no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nav"]/ul/li[1]/a"}
+  (Session info: MicrosoftEdge=87.0.664.52)
+Edge--testaddNewContact--Failed--no such element: Unable to locate element: {"method":"css selector","selector":"*[name='firstname']"}
+  (Session info: MicrosoftEdge=87.0.664.52)
+Chrome--testeditGroup--Failed--no such element: Unable to locate element: {"method":"xpath","selector":"//INPUT[@type='text']/self::INPUT"}
+  (Session info: MicrosoftEdge=87.0.664.52)
+Chrome--testaddNewPage--Passed---
+Edge--testAddNewGroup--Failed--no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="content"]/form/textarea[1]"}
+  (Session info: MicrosoftEdge=87.0.664.52)
+Chrome--testdeleteItem--Passed---
+Edge--testGroups--Passed---
+Edge--testAssignGroup--Failed--no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[4]/form[2]/table/tbody/tr[2]/td[1]/input"}
+  (Session info: MicrosoftEdge=87.0.664.52)
+Chrome--testprintAll--Passed---
+Chrome--testprintPhones--Passed---
+Chrome--testExportAllRecordCSVFile--Failed--expected [46] but found [5572]
+Edge--testeditGroup--Failed--no such element: Unable to locate element: {"method":"xpath","selector":"//INPUT[@type='text']/self::INPUT"}
+  (Session info: MicrosoftEdge=87.0.664.52)
+Edge--testaddNewPage--Passed---
+Chrome--testnextBirthdays--Failed--expected [false] but found [true]
+Chrome--CheckPhonesTest--Failed--expected [false] but found [true]
+Edge--testdeleteItem--Passed---
+Chrome--SearchEntryTest--Failed--no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search-az"]/form/input"}
+  (Session info: MicrosoftEdge=87.0.664.52)
+Chrome--testAddMultipleContactEnteries--Passed---
+Chrome--testAddMultipleMultipleGroups--Passed---
+Edge--testprintAll--Passed---
+Chrome--testVerifyWrongEntry--Failed--no such element: Unable to locate element: {"method":"css selector","selector":"*[name='searchstring']"}
+  (Session info: MicrosoftEdge=87.0.664.52)
+Edge--testprintPhones--Passed---
+Edge--testExportAllRecordCSVFile--Failed--expected [46] but found [5572]
+Edge--testnextBirthdays--Passed---
+Edge--CheckPhonesTest--Passed---
+Edge--SearchEntryTest--Passed---
+Edge--testAddMultipleContactEnteries--Passed---
+Edge--testAddMultipleMultipleGroups--Passed---
+Edge--testVerifyWrongEntry--Failed--expected [1] but found [0]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TailoredTestSuite]">
+  <test thread-count="5" name="ChromeTest(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="TailoredSuiteChrome.RegFormPagetestTimeOutexceptionSeeding">
+        <methods>
+          <include name="testRegistrationFields"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- TailoredSuiteChrome.RegFormPagetestTimeOutexceptionSeeding -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [TailoredTestSuite] -->

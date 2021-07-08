@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Intermediate TestSuite]">
+  <test thread-count="5" name="Command line test afb2a4a2-bd5e-47ea-8aeb-66945a1fecfa(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="IntermediateSuite.AB_suit">
+        <methods>
+          <include name="Setup"/>
+          <include name="testaddNewContact"/>
+          <include name="testAssignGroup"/>
+          <include name="testVerifyWrongEntry"/>
+          <include name="testExportAllRecordCSVFile"/>
+          <include name="testaddNewPage"/>
+          <include name="SearchEntryTest"/>
+          <include name="testdeleteItem"/>
+          <include name="CheckPhonesTest"/>
+          <include name="testeditGroup"/>
+          <include name="testprintAll"/>
+          <include name="testAddNewGroup"/>
+          <include name="testGroups"/>
+          <include name="testAddMultipleContactEnteries"/>
+          <include name="testnextBirthdays"/>
+          <include name="testAddMultipleMultipleGroups"/>
+          <include name="testprintPhones"/>
+        </methods>
+      </class> <!-- IntermediateSuite.AB_suit -->
+    </classes>
+  </test> <!-- Command line test afb2a4a2-bd5e-47ea-8aeb-66945a1fecfa(failed) -->
+</suite> <!-- Failed suite [Intermediate TestSuite] -->

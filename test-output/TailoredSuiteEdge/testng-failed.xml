@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TailoredSuiteEdge]">
+  <test thread-count="5" name="EdgeTest(failed)">
+    <parameter name="browser" value="Edge"/>
+    <classes>
+      <class name="TailoredSuiteEdge.AB_suit">
+        <methods>
+          <include name="CheckPhonesTest"/>
+          <include name="Setup"/>
+          <include name="SearchEntryTest"/>
+        </methods>
+      </class> <!-- TailoredSuiteEdge.AB_suit -->
+    </classes>
+  </test> <!-- EdgeTest(failed) -->
+</suite> <!-- Failed suite [TailoredSuiteEdge] -->
